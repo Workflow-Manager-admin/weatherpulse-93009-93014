@@ -4,6 +4,16 @@
   --text-color: #ffffff;
   --text-secondary: rgba(255, 255, 255, 0.7);
   --border-color: rgba(255, 255, 255, 0.1);
+  
+  /* Weather theme colors */
+  --weather-blue: #2196f3;
+  --weather-light-blue: #64b5f6;
+  --weather-dark-blue: #1976d2;
+  --weather-orange: #ff9800;
+  --weather-yellow: #ffeb3b;
+  --weather-grey: #607d8b;
+  --weather-light-grey: #b0bec5;
+  --weather-green: #4caf50;
 }
 
 body {
